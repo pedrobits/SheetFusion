@@ -43,7 +43,7 @@ npm start
 ## Contribuição
 Contribuições para aprimorar este projeto são sempre bem-vindas. Sinta-se à vontade para abrir um "issue" ou enviar um "pull request" com suas sugestões ou correções.
 
-# Paypal
+### Gostaria de fazer uma contribuição para comprarmos pão de queijo?
 [![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=RAEXD3CNP3PTA)
 
 ## Licença
