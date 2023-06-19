@@ -1,0 +1,20 @@
+{
+  "name": "XLSX-MERGE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "electron": "^25.1.1",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10",
+    "tailwindcss": "^3.3.2",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "glob": "^10.2.7"
+  }
+}
