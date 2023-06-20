@@ -1,4 +1,4 @@
-# SheetFusion
+# ![SheetFusionLogomLOW](https://github.com/pedrobits/SheetFusion/assets/70610289/fd66b5ef-1df5-4a2e-8953-40ee3b7045f4)
 
 ## Descrição do Projeto
 Este projeto consiste em um script em Node.js para converter arquivos de planilha no formato .xlsx e .csv para um único arquivo .xlsx. O script verifica a pasta "planilhas" no diretório atual e combina os arquivos de planilha presentes nessa pasta em um único arquivo fazendo um "merge" entre as planilhas, criando uma nova planilha consolidada.
